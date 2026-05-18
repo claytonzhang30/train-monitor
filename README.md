@@ -93,3 +93,5 @@ Flask Dashboard → serves live data via REST API + Chart.js frontend
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+<!-- history: 2026-05-18 -->
