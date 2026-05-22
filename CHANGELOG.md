@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-22
+
+- feat: implement loss tracking interface
+
 ## 2026-05-19
 
 - feat: basic dashboard layout functionality
