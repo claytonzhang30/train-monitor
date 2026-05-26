@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-26
+
+- feat: add loss tracking support
+
 ## 2026-05-24
 
 - test: add initial test suite
