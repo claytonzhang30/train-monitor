@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-27
+
+- feat: improve loss tracking handling
+
 ## 2026-05-26
 
 - feat: add loss tracking support
