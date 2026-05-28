@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-28
+
+- feat: add alert thresholds support
+
 ## 2026-05-27
 
 - feat: improve loss tracking handling
