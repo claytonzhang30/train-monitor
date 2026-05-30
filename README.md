@@ -99,3 +99,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 <!-- history: 2026-05-24 -->
 
 <!-- history: 2026-05-27 -->
+
+<!-- history: 2026-05-30 -->
