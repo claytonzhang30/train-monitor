@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-31
+
+- feat: improve alert thresholds handling
+
 ## 2026-05-30
 
 - feat: improve GPU monitoring handling
