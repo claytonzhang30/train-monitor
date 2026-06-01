@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- refactor: restructure loss tracking module
+
 ## 2026-05-31
 
 - feat: improve alert thresholds handling
