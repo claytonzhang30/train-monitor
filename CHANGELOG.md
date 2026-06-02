@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- refactor: clean up metric collection code
+
 ## 2026-06-01
 
 - refactor: restructure loss tracking module
