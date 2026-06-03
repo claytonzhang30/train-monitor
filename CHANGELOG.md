@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-03
+
+- fix: handle edge case in alert thresholds
+
 ## 2026-06-02
 
 - refactor: clean up metric collection code
