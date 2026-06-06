@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-06
+
+- test: add integration tests
+
 ## 2026-06-05
 
 - feat: add logging and diagnostics
